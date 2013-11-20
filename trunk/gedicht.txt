@@ -17,15 +17,15 @@ Wie so weit und still die Welt!
 
 Sterne hoch die Kreise schlingen,
 Aus des Schnees Einsamkeit
-<<<<<<< HEAD
+
 Steigts wie serabrednuw Singen - 
 O du gnadenreiche Zeit!
 
-5
-6
-7
-8
-=======
+1
+2
+3
+4
+
 Steigts wie wunderbares Singen - 
 O du gnadenreiche Zeit!
 
